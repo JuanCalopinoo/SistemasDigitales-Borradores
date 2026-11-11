@@ -1,4 +1,4 @@
-# 📝 Apuntes y Borradores: Sistemas Digitales
+#  Apuntes y Borradores: Sistemas Digitales
 
 ![Status](https://img.shields.io/badge/Estado-En_Progreso-yellow.svg)
 ![Carrera](https://img.shields.io/badge/Carrera-Ciencias_de_la_Computación-blue.svg)
@@ -7,7 +7,7 @@ Repositorio personal destinado a centralizar notas de clase, ejercicios de prác
 
 ---
 
-## 📌 Información General
+##  Información General
 
 * **Estudiante:** Juan Calopino
 * **Carrera:** Ciencias de la Computación
@@ -16,7 +16,7 @@ Repositorio personal destinado a centralizar notas de clase, ejercicios de prác
 
 ---
 
-## 🎯 Objetivo del Repositorio
+##  Objetivo del Repositorio
 
 Servir como cuaderno digital de borrador para recopilar:
 * Apuntes teóricos de clase.
